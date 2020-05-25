@@ -1,0 +1,2 @@
+Azure
+Clique o link https://azure.microsoft.com/pt-br/overview/what-is-a-virtual-machine/ para abrir o recurso

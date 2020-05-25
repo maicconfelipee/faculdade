@@ -1,0 +1,41 @@
+Exercicio média
+A professora necessita de um controle automatizado que consiga calcular a nota de cada aluno de TADS em 2019/2.
+
+ 
+
+Para cada aluno, ela deseja informar as notas parciais. Ao final, deseja ver o nome do aluno e a sua média final.
+
+ 
+
+As notas parciais são:
+
+EC1, EC2, EC3, EC4 e EC5
+
+PI1 e PI2
+
+Port1, Port2
+
+Projeto Int1 e Projeto Int2
+
+ 
+
+O cálculo do resultado final deve ser mostrado assim:
+
+ 
+
+Média 1º bimestre
+
+– ((EC1 + EC2 + EC3) / 3 + Port1 + PI1 + Proj Int 1 )/4 * 2
+
+ 
+
+Média 2º bimestre
+
+– ((EC4 + EC5) / 2 + Port2 + PI2 + Proj Int 2 )/4 * 3
+
+ 
+
+Média semestral
+
+- (MB1 + MB2)/5
+

@@ -1,0 +1,13 @@
+
+
+As migrações são tecnologias para que o sistema possa ter as evoluções no mapeamento do banco de dados.
+Segue a lista de comandos necessários para aplicar a migração a cada etapa da evolução do mapeamento:
+
+
+
+-Realiza a criação do arquivo reponsável pela migração
+Add-Migration "NomeDaMigração"
+
+
+-Atualiza o banco de dados criando as tabelas com base nas classes criadas
+Update-Database

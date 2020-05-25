@@ -1,0 +1,9 @@
+Relacionamento entre classes
+Em muitas situações as classes, e por consequência os objetos, precisam se relacionar.
+
+O relacionamento pode se dar por meio de herança ou de associação (por composição e por agregação).
+
+Alguns links com conceitos básicos sobre relacionamento entre classes:
+http://conceitosdepoo.blogspot.com/2013/06/conceito-12-agregacao.html?m=1
+http://www.digitaldev.com.br/2011/09/27/classe-encapsulamento-heranca-composicao-e-agregacao/
+http://www.javaprogressivo.net/2012/10/Composicao-em-Java-trocando-informacoes-entre-objetos.html

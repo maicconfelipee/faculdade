@@ -1,0 +1,21 @@
+https://www.youtube.com/watch?v=ZK_DbHSbALM	1 primeiros passos
+
+https://www.youtube.com/watch?v=N1aN5uKMmDY	2 Formas de algoritmo
+
+https://www.youtube.com/watch?v=8JuogUKzddY	3 Entradas de processamento e saída
+
+https://www.youtube.com/watch?v=hpPVdMAGfMQ	4 Algoritmo exemplo - média aritmetica
+
+https://www.youtube.com/watch?v=ismiIc7MyLI  	5 Algoritmo exemplo - conversao dias em horas
+
+https://www.youtube.com/watch?v=YvWj84OLAFk	6 Alguns operadores aritmeticos
+
+https://www.youtube.com/watch?v=VBArtT78MCs	7 Estrutura condicional simples
+
+https://www.youtube.com/watch?v=8ssRVmMHN94	8 Estrutura condicional composta	
+
+
+Ferramentas
+https://www.oracle.com/java/technologies/javase-jdk11-downloads.html	Java Developmente Kit (JDK)
+
+https://www.eclipse.org/downloads/packages/				EclipseJava

@@ -1,0 +1,47 @@
+/**
+ * 
+ */
+package exemplo1;
+
+import javax.swing.*;
+import java.util.Scanner;
+
+/**
+ * @author edilene
+ *
+ */
+public class Main {
+
+	/**
+	 * @param args
+	 */
+
+	public static void main(String args[]) {
+
+		String x;
+		int i;
+		float f;
+		double d;
+		byte b;
+		x = JOptionPane.showInputDialog("Digite um número: ");
+		i = Integer.parseInt(x);
+		f = Float.parseFloat(x);
+		d = Double.parseDouble(x);
+		b = Byte.parseByte(x);
+		
+		JOptionPane.showMessageDialog(null, "Valor convertido para inteiro = " + i);
+		JOptionPane.showMessageDialog(null, "Valor convertido para float = " + f);
+		JOptionPane.showMessageDialog(null, "Valor convertido para double = " + d);
+		JOptionPane.showMessageDialog(null, "Valor convertido para byte = " + b);
+
+		Scanner sc1 = new Scanner(System.in);
+		System.out.println("digite primeio numero :");
+		int b1 = sc1.nextInt();
+		System.out.println("digite segundo numero2:");
+		float c1 = sc1.nextFloat();
+		System.out.println("Soma dos números: " + (b1 + c1));
+		
+		sc1.close();
+	}
+
+}
